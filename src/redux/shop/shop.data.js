@@ -7,55 +7,55 @@ const SHOP_DATA = {
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: 'https://i.pinimg.com/originals/04/72/57/0472571e43ccb3584a1c0ac497d8665d.jpg',//'https://cdn.lookastic.com/brown-wool-hat/brooklyn-hat-co-wood-wide-brim-hat-613504-original.jpg',//'https://i.ibb.co/ZYW3VTp/brown-brim.png',
         price: 250
       },
       {
         id: 2,
         name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: 'https://media.gettyimages.com/photos/portrait-of-happy-young-woman-hiking-in-the-mountains-picture-id932635676?k=6&m=932635676&s=612x612&w=0&h=MVs9GNRnDQhK75ex2CMPD9lPDibggBg833bTHxxMRcA=',//'https://i.ibb.co/ypkgK0X/blue-beanie.png',
         price: 180
       },
       {
         id: 3,
         name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: 'https://media.gettyimages.com/photos/man-in-cowboy-hat-sitting-at-bar-table-drinking-beer-picture-id475485928?k=6&m=475485928&s=612x612&w=0&h=NWShu35wncqUVVue1Z7GVPwOJAhmIcyGve8dbzU2mpU=',//'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
         price: 350
       },
       {
         id: 4,
         name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        imageUrl: 'https://media.gettyimages.com/photos/coachella-guest-wearing-a-furla-bag-during-day-2-of-the-2018-valley-picture-id964891532?k=6&m=964891532&s=612x612&w=0&h=J6aekMULI0dbno4ocFDLtdL_MPvAzXJCvw57MSnhMxA=',//'https://i.ibb.co/RjBLWxB/grey-brim.png',
         price: 250
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+        name: 'Yellow Beanie',
+        imageUrl: 'https://media.gettyimages.com/photos/london-smiling-man-leaning-on-a-railing-and-looking-at-his-phone-with-picture-id1134465089?k=6&m=1134465089&s=612x612&w=0&h=ICaVC93GVvPbx2BTMJpj6xtF-hg3JbNkLyweVnKSPYo=',//'https://i.ibb.co/YTjW3vF/green-beanie.png',
         price: 180
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        name: 'Grey Cap',
+        imageUrl: 'https://media.gettyimages.com/photos/brad-pitt-attends-ad-astra-photocall-during-the-76th-venice-film-at-picture-id1170935770?k=6&m=1170935770&s=612x612&w=0&h=D79-EDw9O8zd7WNMwo7XKESWVoqgbiz36Ye-fJr5g_c=',//'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
         price: 140
       },
       {
         id: 7,
         name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+        imageUrl: 'https://media.gettyimages.com/photos/portrait-of-happy-young-woman-with-christmas-gift-in-winter-forest-picture-id962633668?k=6&m=962633668&s=612x612&w=0&h=rpYXHx2_ELfWnoyo9ZkGW8l4J6jsTjjzEv10dMyNqzU=',//'https://i.ibb.co/bLB646Z/red-beanie.png',
         price: 180
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+        name: 'Black Cap',
+        imageUrl: 'https://www.zastavki.com/pictures/originals/2019Girls___Models_Beautiful_girl_model_in_black_baseball_cap_131355_.jpg',//'https://i.ibb.co/1f2nWMM/wolf-cap.png',
         price: 140
       },
       {
         id: 9,
         name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
+        imageUrl: 'https://beauty-fr.htgetrid.com/images/article/orig/2016/11/kepka-supreme-1.png',//'https://i.ibb.co/X2VJP2W/blue-snapback.png',
         price: 160
       }
     ]
