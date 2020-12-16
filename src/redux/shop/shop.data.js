@@ -68,49 +68,49 @@ const SHOP_DATA = {
       {
         id: 10,
         name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        imageUrl: 'https://5.imimg.com/data5/UF/CR/MY-42622857/adidas-nmd-shoes-500x500.png',//'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
         price: 2200
       },
       {
         id: 11,
         name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        imageUrl: 'https://storage.googleapis.com/data-justfreshkicks/2019/07/8581bb34-dnhfcz9vyaarca-.jpg',//'https://i.ibb.co/dJbG1cT/yeezy.png',
         price: 2800
       },
       {
         id: 12,
         name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        imageUrl: 'https://blogscdn.thehut.net/app/uploads/sites/6/2019/10/FH14-ALL-STAR-EG_7_1571136855.jpg',//'https://i.ibb.co/bPmVXyP/black-converse.png',
         price: 1100
       },
       {
         id: 13,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        imageUrl: 'https://i.ebayimg.com/images/g/RdEAAOSwuMVevG3f/s-l640.png',//'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
         price: 1600
       },
       {
         id: 14,
         name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        imageUrl: 'https://img1.cfcdn.club/26/d2/2633c3ed3d714cc1573d8ba0719fd2d2_350x350.jpg',//'https://i.ibb.co/QcvzydB/nikes-red.png',
         price: 1600
       },
       {
         id: 15,
         name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+        imageUrl: 'https://images.unsplash.com/photo-1580142866493-e39b5656f409?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1000&q=80',//'https://i.ibb.co/fMTV342/nike-brown.png',
         price: 1600
       },
       {
         id: 16,
         name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        imageUrl: 'https://lh3.googleusercontent.com/proxy/yyL33jbROWR6jCECW4Xr1BW6PcHaMpMRGOTHN1lJyby05T9kJ4EBBWqO5apXBz7_5yojem923OwEjpmM-xcphfxikQfgkFhDIp2fG424wtDJ1-NiEOcoBQ',//'https://i.ibb.co/w4k6Ws9/nike-funky.png',
         price: 1900
       },
       {
         id: 17,
         name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+        imageUrl: 'https://i.pinimg.com/originals/35/80/6b/35806be93f1b584dd83ce66b1ecbb90e.jpg',//'https://i.ibb.co/Mhh6wBg/timberlands.png',
         price: 2000
       }
     ]
@@ -123,31 +123,31 @@ const SHOP_DATA = {
       {
         id: 18,
         name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+        imageUrl: 'https://www.dhresource.com/0x0/f2/albu/g9/M00/55/91/rBVaWF5y09eAYOrCAAKHa4mvKhU972.jpg',//'https://i.ibb.co/XzcwL5s/black-shearling.png',
         price: 1250
       },
       {
         id: 19,
         name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://media.gettyimages.com/photos/woman-wearing-a-jeans-jacket-portrait-picture-id502438847?k=6&m=502438847&s=612x612&w=0&h=LK7SsQ8FJDnXcs9UqsRebGo3yjdng9QJZhipitxw9pc=',//'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
         price: 900
       },
       {
         id: 20,
-        name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-        price: 900
+        name: 'Biker Leather Jacket',
+        imageUrl: 'https://media.gettyimages.com/photos/young-man-looking-down-while-sitting-on-chair-picture-id1201448471?k=6&m=1201448471&s=612x612&w=0&h=ZPFPhaEyoZ0xV2xTeD7rHNc8FXT8FHfBVw4HTPMryHc=',//'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        price: 1200
       },
       {
         id: 21,
         name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-        price: 1650
+        imageUrl: 'https://media.gettyimages.com/photos/young-man-standing-between-brown-rocks-looking-left-picture-id664297482?k=6&m=664297482&s=612x612&w=0&h=MDJTQCQ1-AWIZ-mxF_CFhbBmpoPtJSVKsBeNA5wHG8E=',//'https://i.ibb.co/s96FpdP/brown-shearling.png',
+        price: 1350
       },
       {
         id: 22,
         name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+        imageUrl: 'https://media.gettyimages.com/photos/outdoor-portrait-of-stylish-young-woman-in-the-coat-picture-id1246502306?k=6&m=1246502306&s=612x612&w=0&h=YdFJtm6sviL75fCYXmkFUOjwkwiYczYMM9s5C2ZfT30=',//'https://i.ibb.co/M6hHc3F/brown-trench.png',
         price: 1850
       }
     ]
