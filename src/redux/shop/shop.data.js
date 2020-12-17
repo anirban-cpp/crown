@@ -232,7 +232,7 @@ const SHOP_DATA = {
       },
       {
         id: 34,
-        name: 'Floral T-shirt',
+        name: 'Floral Shirt',
         imageUrl: 'https://pipiluxury.com/wp-content/uploads/2020/06/Men-Floral-Shirt-Fashion-Flower-Printed-Shirts-Casual-Short-Sleeve-Lapel-Blouse-Hawaiian-Summer-Beach-Breathable-4.jpg',//'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
         price: 500
       },
