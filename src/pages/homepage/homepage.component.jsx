@@ -22,10 +22,10 @@ const HomePage = () => (
     <div>
       <h6 className='ending'>KEEP IN TOUCH</h6>
       <div className='images'>
-          <img className='image' src={Facebook} alt=''/>
-          <img className='image' src={Twitter} alt=''/>
-          <img className='image' src={Youtube} alt=''/>
-          <img className='image' src={Instagram} alt=''/>
+        <img className='image' src={Facebook} alt=''/>
+        <img className='image' src={Twitter} alt=''/>
+        <img className='image' src={Youtube} alt=''/>
+        <img className='image' src={Instagram} alt=''/>
       </div>
     </div>
   </div>

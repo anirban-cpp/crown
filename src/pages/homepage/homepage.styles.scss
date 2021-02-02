@@ -27,12 +27,13 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  &:hover{
-    cursor: pointer;
-  }
 }
 .image{
   width: 28px;
   height: 20px;
   padding-right: 10px;
+
+  &:hover{
+    cursor: pointer;
+  }
 }

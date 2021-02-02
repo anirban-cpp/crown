@@ -2,7 +2,7 @@
   width: 22vw;
   display: flex;
   flex-direction: column;
-  height: 350px;
+  height: 400px;
   align-items: center;
   position: relative;
 
@@ -12,6 +12,7 @@
     background-size: cover;
     background-position: center;
     margin-bottom: 5px;
+    transform: scale(0.8);
   }
 
   .custom-button {

@@ -23,7 +23,6 @@
     font-size: large;
 
     .option {
-      padding: 10px 15px;
       cursor: pointer;
     }
     .shop {
@@ -89,7 +88,7 @@
       border-bottom-width: 4px;
       border-bottom-color: white;
       &:hover{
-        border-bottom-color: palevioletred;
+        border-bottom-color: rgb(228, 165, 186);
         cursor: pointer;
       }
     }
