@@ -18,23 +18,50 @@ const Header = ({ currentUser, hidden }) => (
     <Link className='logo-container' to='/'>
       <Logo className='logo' />
     </Link>
+    <div className='categories'>
+      <Link className='category' to='/shop/mens'>
+        <div className='men'>
+          MEN
+        </div>
+      </Link>
+      <Link className='category' to='/shop/womens'>
+        <div className='women'>
+          WOMEN
+        </div>
+      </Link>
+      <Link className='category' to='/shop/kids'>
+        <div className='kids'>
+          KIDS
+        </div>
+      </Link>
+    </div>
     <div className='options'>
       <Link className='option' to='/shop'>
-        SHOP
+        <div className='shop'>
+          SHOP
+        </div>
       </Link>
       <Link className='option' to='/contact'>
-        CONTACT
+        <div className='contact'>
+          CONTACT
+        </div>
       </Link>
       {currentUser ? (
         <div className='option' onClick={() => auth.signOut()}>
-          SIGN OUT
+          <div className='sign'>
+            SIGN OUT
+          </div>
         </div>
       ) : (
         <Link className='option' to='/signin'>
-          SIGN IN
+          <div className='sign'>
+            SIGN IN
+          </div>
         </Link>
       )}
-      <CartIcon />
+      <div className="cart">
+        <CartIcon />
+      </div>
     </div>
     {hidden ? null : <CartDropdown />}
   </div>

@@ -2,7 +2,7 @@ const INITIAL_STATE = {
   sections: [
     {
       title: 'hats',
-      imageUrl: 'https://www.brixton.com/pub/media/catalog/category/HO19-GIFT-GUIDE-CLP-HAT-SHOP.jpg',//'https://i.ibb.co/cvpntL1/hats.png',
+      imageUrl: 'https://di2ponv0v5otw.cloudfront.net/posts/2019/10/12/5da2977bd40008dc4119f7ea/m_5da2979716105d457acda11a.jpg',//'https://www.brixton.com/pub/media/catalog/category/HO19-GIFT-GUIDE-CLP-HAT-SHOP.jpg',//'https://i.ibb.co/cvpntL1/hats.png',
       id: 1,
       linkUrl: 'shop/hats'
     },

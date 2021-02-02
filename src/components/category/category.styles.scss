@@ -1,7 +1,32 @@
+.container{
+  height: 500px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: solid 0.5px #EAEAEC;
+}
 .category-menu {
-    display: flex;
+    width: 100%;
+    display: -webkit-flex;
     flex-direction: column;
+    -webkit-box-orient: horizontal;
     flex-wrap: wrap;
-    align-items: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    align-content: stretch;
     justify-content: space-between;
+}
+.title{
+  font-family:'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  color: #3e4172;
+  letter-spacing: .15cm;
+  
+  font-weight: 500;
 }

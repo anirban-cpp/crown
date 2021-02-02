@@ -3,3 +3,36 @@
   flex-direction: column;
   align-items: center;
 }
+
+.title{
+  font-family:'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  color: #3e4172;
+  letter-spacing: .15cm;
+  padding-top: 10px;
+  font-weight: 500;
+}
+
+.ending{
+  font-family:'Times New Roman', Times, serif;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: .10cm;
+  padding-top: 10px;
+  font-weight: 500;
+}
+
+.images{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  &:hover{
+    cursor: pointer;
+  }
+}
+.image{
+  width: 28px;
+  height: 20px;
+  padding-right: 10px;
+}

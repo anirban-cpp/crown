@@ -86,7 +86,7 @@ const SHOP_DATA = {
       {
         id: 13,
         name: 'Nike Red High Tops',
-        imageUrl: 'https://img1.cfcdn.club/26/d2/2633c3ed3d714cc1573d8ba0719fd2d2_350x350.jpg',//'https://i.ibb.co/QcvzydB/nikes-red.png',
+        imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRON5ILZ7wfmgJGA3zKIOGZj3z4y6xzTwhSHA&usqp=CAU',//'https://img1.cfcdn.club/26/d2/2633c3ed3d714cc1573d8ba0719fd2d2_350x350.jpg',//'https://i.ibb.co/QcvzydB/nikes-red.png',
         price: 1600
       },
       {
@@ -98,7 +98,7 @@ const SHOP_DATA = {
       {
         id: 15,
         name: 'Air Jordan Limited',
-        imageUrl: 'https://lh3.googleusercontent.com/proxy/yyL33jbROWR6jCECW4Xr1BW6PcHaMpMRGOTHN1lJyby05T9kJ4EBBWqO5apXBz7_5yojem923OwEjpmM-xcphfxikQfgkFhDIp2fG424wtDJ1-NiEOcoBQ',//'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsEvros_Ca4XbAvcnFS3dgPMuyI2gLJywDw&usqp=CAU',//'https://lh3.googleusercontent.com/proxy/yyL33jbROWR6jCECW4Xr1BW6PcHaMpMRGOTHN1lJyby05T9kJ4EBBWqO5apXBz7_5yojem923OwEjpmM-xcphfxikQfgkFhDIp2fG424wtDJ1-NiEOcoBQ',//'https://i.ibb.co/w4k6Ws9/nike-funky.png',
         price: 1900
       },
       {
@@ -271,6 +271,61 @@ const SHOP_DATA = {
         name: 'Black Formal Shirt',
         imageUrl: 'https://i.pinimg.com/originals/c1/7a/4e/c17a4e402bed012a501822fe62da4e00.jpg',
         price: 1250
+      },
+    ]
+  },
+  kids: {
+    id: 6,
+    title: 'Kids',
+    routeName: 'kids',
+    items: [
+      {
+        id: 41,
+        name: 'H&M Boys Sweatshirt',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/11/20/686d1d2e-72cf-4961-8bd2-e585a227220c1605857916253-1.jpg',
+        price: 1299
+      },
+      {
+        id: 42,
+        name: 'Printed Cotton Sweatshirt',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/26/cca5f600-31ac-45f1-9077-dea5170f70601608978335561-1.jpg',
+        price: 699
+      },
+      {
+        id: 43,
+        name: 'Girls White Tulle Dress',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11801496/2020/4/16/25466286-a61b-480e-ab58-964e2432d9381587015184332Glitterytulledress1.jpg',
+        price: 1999
+      },
+      {
+        id: 44,
+        name: 'GAP Girls Stripped T-shirt',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12810632/2020/12/18/716960a3-48dd-4191-942b-b35740f0a82e1608288639813GAPGirlsBlueWhiteStripedFlipSequinRoundNeckT-shirt1.jpg',
+        price: 899
+      },
+      {
+        id: 45,
+        name: 'Puma Girls Classic T-shirt',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12349254/2020/10/27/30f39311-8609-4e54-a291-566643c444581603801172001PumaGirlsPeach-ColouredClassicsWildPrintedRoundNeckT-shirt1.jpg',
+        price: 1199
+      },
+      {
+        id: 46,
+        name: 'Girls Printed Kurta with Palazzos',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/6/fb576e3a-0d80-46d2-9d25-81df6bd07ca61601936483765-1.jpg',
+        price: 929
+      },
+      {
+        id: 47,
+        name: 'Boys Printed shirt with Jeans',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9850523/2019/5/29/df363819-dd24-4350-acca-c0bb20c800b41559124844233-AJ-Dezines-Kids-Party-Wear-Brown-Color-Shirts-and-Jeans-For--1.jpg',
+        price: 1229
+      },
+      {
+        id: 48,
+        name: 'Gini and Jony Boys Printed T-shirt',
+        imageUrl: 'https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11379886/2020/2/13/bbc15345-ac12-49cc-bd4d-2518ec15dc0a1581586362211-Gini-and-Jony-Boys-Black--Grey-Printed-Round-Neck-T-shirt-27-1.jpg',
+        price: 399
       },
     ]
   }
