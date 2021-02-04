@@ -7,9 +7,6 @@ const CategoryItem = ({imageUrl,history, linkUrl, match}) => (
     <div className='category-item'
     onClick={()=>history.push(`shop${match.url}${linkUrl}`)}
     >
-        {
-            console.log(linkUrl)
-        }
         <div className='background-image' style={{backgroundImage: `url(${imageUrl})`}}/>
     </div>
 )

@@ -2,6 +2,10 @@ import React from 'react';
 
 import { ReactComponent as ShoppingIcon } from '../../assets/shopping-bag.svg';
 
+import Original from '../../assets/original.png';
+import Truck from '../../assets/truck.png';
+import Days from '../../assets/30days.png';
+
 import './contact.styles.scss';
 
 const Contact = () => (
@@ -56,7 +60,7 @@ const Contact = () => (
                 </div>
                 <div className='contact-box-isBrowser'>
                     <div className='contact-box-textWrapper'>
-                        <div classnAme='errorCase-text'>
+                        <div className='errorCase-text'>
                             Please click on the button below to submit your queries
                         </div>
                     </div>
