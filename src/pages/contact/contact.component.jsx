@@ -68,6 +68,35 @@ const Contact = () => (
                         <button className='mail'>CONTACT US</button>
                     </div>
                 </div>
+                <div className='promises'>
+                    <div className='container'>    
+                        <div className='guarantee'>
+                            <div className='image'>
+                                <img className='imggua' src={Original}/>
+                            </div>
+                        </div>
+                        <div className='text'>100% ORIGINAL</div>
+                        <div className='sub-texttext'>guarantee on all products</div>
+                    </div>
+                    <div className='container'>
+                        <div className='guarantee'>
+                            <div className='image'>
+                                <img className='imggua' src={Truck}/>
+                            </div>
+                        </div>
+                        <div className='text'>Return within 30 days</div>
+                        <div className='sub-texttext'>after recieving your order</div>
+                    </div>
+                    <div className='container'>
+                        <div className='guarantee'>
+                            <div className='image'>
+                                <img className='imggua' src={Days}/>
+                            </div>
+                        </div>
+                        <div className='text'>Get free delivery</div>
+                        <div className='sub-texttext'>For every order above Rs. 999</div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
