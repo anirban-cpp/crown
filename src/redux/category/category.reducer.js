@@ -10,7 +10,7 @@ const INITIAL_STATE = {
             title: 'T-Shirts',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/9ff1f34e-9242-47fd-9566-e7d7a5c240511594222908483-T-shirt.jpg',
             id: 2,
-            linkUrl: 'tshirts'
+            linkUrl: 't-shirts'
         },
         {
             title: 'Jeans',
@@ -28,19 +28,19 @@ const INITIAL_STATE = {
             title: 'Causal Shoes',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/ae14f627-9fd9-41ce-80a4-f107c316c7eb1594222907625-Casual-shoes.jpg',
             id: 5,
-            linkUrl: 'casualshoes'
+            linkUrl: 'casual shoes'
         },
         {
             title: 'infant Essentials',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/f0f9b81a-b9d5-4b8b-94d5-ea878fa9b18e1594222834121-Infant-Essential.jpg',
             id: 6,
-            linkUrl: 'infantessentials'
+            linkUrl: 'infant essentials'
         },
         {
             title: 'Kurtas & Kurta Sets',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/8d992d81-49e6-4dec-89a4-49a8af8beb5d1594222967220-Kurtas-_-Kurta-Sets.jpg',
             id: 7,
-            linkUrl: 'kurtas'
+            linkUrl: 'kurtas & kurta sets'
         },
         {
             title: 'Sarees',
@@ -58,7 +58,7 @@ const INITIAL_STATE = {
             title: 'Flats & Heels',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/8/a4dedaa4-3710-4061-b7d6-ca8c83ce9d021594222967117-Heels.jpg',
             id: 10,
-            linkUrl: 'flats'
+            linkUrl: 'flats & heels'
         },
         {
             title: 'Handbags',

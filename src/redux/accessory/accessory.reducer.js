@@ -4,7 +4,7 @@ const INITIAL_STATE = {
             title: 'Wireless Headphones',
             imageUrl: 'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/2bcf907c-bc21-44cb-9021-7575a963b0ef1595934830671-Content-Accesories-Unisex-True-wirless-lets-get-free.jpg',
             id: 1,
-            linkUrl: 'headphones'
+            linkUrl: 'wireless headphones'
         },
         {
             title: 'Sport Watches',
