@@ -1,7 +1,5 @@
 import ShopActionTypes from './shop.types';
 
-import { store, convertCollectionSnapshotToMap } from '../../firebase/firebase.utils';
-
 export const fetchCollectionsStart = () => ({
     type: ShopActionTypes.FETCH_COLLECTIONS_START
 });
@@ -16,6 +14,8 @@ export const fetchCollectionsFailure = errorMessage => ({
     payload: errorMessage
 })
 
+/* Redux-thunk code for async behaviour
+
 export const fetchCollectionsStartAsync = () => {
     return dispatch => {
         const collectionRef = store.collection('collection');
@@ -26,4 +26,4 @@ export const fetchCollectionsStartAsync = () => {
             dispatch(fetchCollectionsSuccess(collectionsMap));
         }).catch(error => dispatch(fetchCollectionsFailure(error.message)));
     }
-}
+}*/
